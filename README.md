@@ -2,9 +2,9 @@ I’m currently learning C++.
 I'm also studying c# and Network Programming.                                      
 And I'm interested in planning and NP.
 
-My hobby is playing games.
-Therefore, I'm not good at coding, but I want to study hard 
-and create a game that anyone can enjoy and learn lessons.
+My hobby is playing games.                                                            
+Therefore, I'm not good at coding, but I want to study hard                                         
+and create a game that anyone can enjoy and learn lessons.                          
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
