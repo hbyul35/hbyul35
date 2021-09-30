@@ -1,5 +1,5 @@
 I’m currently learning C++.                                                
-I'm also studying c# and Network Programming.
+I'm also studying c# and Network Programming.                                      
 And I'm interested in planning and NP.
 
 My hobby is playing games.
